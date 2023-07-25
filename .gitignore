@@ -5,3 +5,4 @@ LICENSE.chromedriver
 *.csv
 
 cedula-scraper/
+!requirements.txt
