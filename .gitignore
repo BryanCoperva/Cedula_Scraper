@@ -6,3 +6,6 @@ LICENSE.chromedriver
 
 cedula-scraper/
 !requirements.txt
+scrapers/
+downloaded_files/
+__pycache__/
